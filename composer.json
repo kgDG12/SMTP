@@ -2,8 +2,7 @@
     "name": "kgdg12/smtp-demo",
     "description": "A simple SMTP server for testing purposes",
     "license": "MIT",
-    "require": {
-        "php": "^5.6.0",
+    "require": {        
         "phpmailer/phpmailer": "^6.5"
     }
 }
