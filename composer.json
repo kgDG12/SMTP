@@ -4,5 +4,8 @@
     "license": "MIT",
     "require": {        
         "phpmailer/phpmailer": "^6.5"
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+
 }
