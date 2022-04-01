@@ -1,0 +1,12 @@
+{
+    "name": "kgDG12/smtp-demo",
+    "version": "1.0.0",
+    "author": "kgDG12",
+    "description": "A simple SMTP server for testing purposes",
+    "license": "MIT",
+    "main": "send.php",
+    "require": {
+        "php": ">=5.6.0",
+        "phpmailer/phpmailer": "^6.5"
+    }
+}
