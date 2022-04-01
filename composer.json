@@ -1,15 +1,13 @@
 {
     "name": "kgdg12/smtp-demo",
     "description": "A simple SMTP server for testing purposes",
+    "type": "library",
     "license": "MIT",
     "require": {
-        "phpmailer/phpmailer": "^6.5"
-    },
-    "require-dev": {
+        "phpmailer/phpmailer": "^6.5",
         "php": ">=5.3.0"
     },
-    "minimum-stability": "stable",
-    "type": "library",
+    "require-dev": {},
     "autoload": {
         "psr-4": {
             "kgdg12\\smtp-demo\\": "src/"
