@@ -5,7 +5,7 @@
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => '98fafcb5604706fa7131637da435ba111612f7e8',
+        'reference' => '63f23aa17f6054338432fc1d332cabc20e12ee59',
         'name' => 'kgdg12/smtp-demo',
         'dev' => true,
     ),
@@ -16,7 +16,7 @@
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => '98fafcb5604706fa7131637da435ba111612f7e8',
+            'reference' => '63f23aa17f6054338432fc1d332cabc20e12ee59',
             'dev_requirement' => false,
         ),
         'phpmailer/phpmailer' => array(
